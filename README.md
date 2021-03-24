@@ -1,5 +1,4 @@
-# Marry-Me-
-Assembly MIPS
+# Marry-Me-Assembly MIPS
 
 .text
 
